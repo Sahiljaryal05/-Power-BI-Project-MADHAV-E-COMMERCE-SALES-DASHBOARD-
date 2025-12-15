@@ -1,1 +1,2 @@
 # -Power-BI-Project-MADHAV-E-COMMERCE-SALES-DASHBOARD-
+Developed an interactive Power BI dashboard to analyze Madhav Ecommerce sales performance. Integrated and transformed raw sales data using Power Query, and created dynamic visualizations to track revenue, profit, quantity sold, customer segments, product categories, regions, and monthly trends. Implemented slicers and filters for real-time analysis, enabling stakeholders to identify top-performing products, high-profit regions, and seasonal sales patterns, supporting data-driven business decisions.
